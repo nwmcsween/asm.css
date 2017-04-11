@@ -1,0 +1,5 @@
+.braf-ap {
+  -webkit-column-break-after: avoid;
+  page-break-after: avoid;
+  break-after: avoid-page;
+}

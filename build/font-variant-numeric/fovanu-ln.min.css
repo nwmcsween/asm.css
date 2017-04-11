@@ -1,0 +1,5 @@
+.fovanu-ln {
+  -webkit-font-feature-settings: "lnum";
+  font-feature-settings: "lnum";
+  font-variant-numeric: lining-nums;
+}

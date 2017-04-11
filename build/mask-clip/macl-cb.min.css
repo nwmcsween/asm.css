@@ -1,0 +1,4 @@
+.macl-cb {
+  -webkit-mask-clip: content-box;
+  mask-clip: content-box;
+}

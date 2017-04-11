@@ -1,0 +1,5 @@
+.cosp-al {
+  -webkit-column-span: all;
+  -moz-column-span: all;
+  column-span: all;
+}

@@ -1,0 +1,5 @@
+.fovaca-apc {
+  -webkit-font-feature-settings: "pcap", "c2pc";
+  font-feature-settings: "pcap", "c2pc";
+  font-variant-caps: all-petite-caps;
+}

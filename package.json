@@ -1,0 +1,24 @@
+{
+  "name": "asm.css",
+  "version": "0.0.1",
+  "description": "A simple CSS asm",
+  "repository": {
+      "url": "https://github.com/nwmcsween/asm.css",
+      "type": "git"
+  },
+  "author": "Nathan McSween <nwmcsween@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+      "css-mqpacker":                       "*",
+      "cssnano":                            "*",
+      "parker":                             "*",
+      "postcss-cli":                        "*",
+      "postcss-cssnext":                    "*",
+      "postcss-easy-import":                "*",
+      "postcss-reporter":                   "*",
+      "stylefmt":                           "*",
+      "stylelint":                          "*",
+      "stylelint-config-standard":          "*"
+  }
+}
+

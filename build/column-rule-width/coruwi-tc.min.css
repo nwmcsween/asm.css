@@ -1,0 +1,5 @@
+.coruwi-tc {
+  -webkit-column-rule-width: thick;
+  -moz-column-rule-width: thick;
+  column-rule-width: thick;
+}

@@ -1,0 +1,4 @@
+.flba-co {
+  -ms-flex-preferred-size: content;
+  flex-basis: content;
+}

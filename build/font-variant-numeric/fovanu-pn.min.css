@@ -1,0 +1,5 @@
+.fovanu-pn {
+  -webkit-font-feature-settings: "pnum";
+  font-feature-settings: "pnum";
+  font-variant-numeric: proportional-nums;
+}

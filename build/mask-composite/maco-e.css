@@ -1,0 +1,4 @@
+.maco-e {
+  -webkit-mask-composite: exclude;
+  mask-composite: exclude;
+}

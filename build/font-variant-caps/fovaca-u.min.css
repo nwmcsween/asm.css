@@ -1,0 +1,5 @@
+.fovaca-u {
+  -webkit-font-feature-settings: "unic";
+  font-feature-settings: "unic";
+  font-variant-caps: unicase;
+}

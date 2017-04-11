@@ -1,0 +1,4 @@
+.fldi-cr {
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+}

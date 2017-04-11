@@ -1,0 +1,6 @@
+.fovali-nc {
+  -webkit-font-feature-settings: "calt" off;
+  font-feature-settings: "calt" off;
+  -webkit-font-variant-ligatures: no-contextual;
+  font-variant-ligatures: no-contextual;
+}

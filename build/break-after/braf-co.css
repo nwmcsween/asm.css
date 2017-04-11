@@ -1,0 +1,5 @@
+.braf-co {
+  -webkit-column-break-after: column;
+  page-break-after: column;
+  break-after: column;
+}

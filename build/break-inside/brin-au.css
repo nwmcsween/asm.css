@@ -1,0 +1,5 @@
+.brin-au {
+  -webkit-column-break-inside: auto;
+  page-break-inside: auto;
+  break-inside: auto;
+}

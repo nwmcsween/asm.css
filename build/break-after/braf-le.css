@@ -1,0 +1,5 @@
+.braf-le {
+  -webkit-column-break-after: left;
+  page-break-after: left;
+  break-after: left;
+}

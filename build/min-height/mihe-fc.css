@@ -1,0 +1,5 @@
+.mihe-fc {
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+}

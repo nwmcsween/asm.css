@@ -1,0 +1,5 @@
+.fovanu-df {
+  -webkit-font-feature-settings: "frac";
+  font-feature-settings: "frac";
+  font-variant-numeric: diagonal-fractions;
+}

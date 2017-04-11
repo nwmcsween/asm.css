@@ -1,0 +1,5 @@
+.corust-ou {
+  -webkit-column-rule-style: outset;
+  -moz-column-rule-style: outset;
+  column-rule-style: outset;
+}

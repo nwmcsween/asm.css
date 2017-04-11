@@ -1,0 +1,5 @@
+.blsi-mac {
+  block-size: -webkit-max-content;
+  block-size: -moz-max-content;
+  block-size: max-content;
+}

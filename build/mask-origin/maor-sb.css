@@ -1,0 +1,4 @@
+.maor-sb {
+  -webkit-mask-origin: stroke-box;
+  mask-origin: stroke-box;
+}

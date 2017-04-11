@@ -1,0 +1,5 @@
+.cosp-no {
+  -webkit-column-span: none;
+  -moz-column-span: none;
+  column-span: none;
+}

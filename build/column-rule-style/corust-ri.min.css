@@ -1,0 +1,5 @@
+.corust-ri {
+  -webkit-column-rule-style: ridge;
+  -moz-column-rule-style: ridge;
+  column-rule-style: ridge;
+}

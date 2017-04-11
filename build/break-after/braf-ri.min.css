@@ -1,0 +1,5 @@
+.braf-ri {
+  -webkit-column-break-after: right;
+  page-break-after: right;
+  break-after: right;
+}

@@ -1,0 +1,5 @@
+.corust-in {
+  -webkit-column-rule-style: inset;
+  -moz-column-rule-style: inset;
+  column-rule-style: inset;
+}

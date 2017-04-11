@@ -1,0 +1,4 @@
+.fldi-rr {
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
