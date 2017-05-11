@@ -3,6 +3,7 @@ MAKEFLAGS := -r
 CSS_ANALYZE := node_modules/.bin/parker
 CSS_FORMAT := node_modules/.bin/stylefmt
 CSS_POSTCSS := node_modules/.bin/postcss
+CSS_POSTCSS_OPTS := -e production
 
 COMPRESS ?= gzip
 COMPRESS_OPTS ?= -9
@@ -41,7 +42,7 @@ $(WORK_DIR)/%.css: $(SRC_DIR)/%.css | $(WORK_DIRS)
 	$(CSS_POSTCSS) $< -o $@
 
 %.min.css: %.css
-	$(CSS_POSTCSS) $< -o $@
+	$(CSS_POSTCSS) $(CSS_POSTCSS_OPTS) $< -o $@
 
 %.min.css.gz: %.min.css
 	$(COMPRESS) $(COMPRESS_OPTS) < $< > $@

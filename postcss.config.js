@@ -4,19 +4,15 @@ module.exports = (ctx) => ({
     'postcss-easy-import': {},
     'stylelint': {},
     'postcss-cssnext': {
-      browser: ['> 5%, not IE < 11'],
-      features: {
-        autoprefixer: {
-          flexbox: 'no-2009',
-          grid: false,
-          cascade: false
-        }
+      browsers: ['> 5%', 'not IE < 11'],
+      autoprefixer: {
+        cascade: false,
+        flexbox: "no-2009",
+        grid: false
       }
     },
     'css-mqpacker': {},
-    'cssnano': ctx.file.extname === '.min.css' ? {} : false,
-    'postcss-reporter': {
-
-    }
+    'cssnano': ctx.env === 'production' ? {} : false,
+    'postcss-reporter': {}
   }
 })
