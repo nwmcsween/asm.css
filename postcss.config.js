@@ -5,14 +5,16 @@ module.exports = (ctx) => ({
     'stylelint': {},
     'postcss-cssnext': {
       browsers: ['> 5%', 'not IE < 11'],
-      autoprefixer: {
-        cascade: false,
-        flexbox: "no-2009",
-        grid: false
+      features: {
+        autoprefixer: {
+          cascade: false,
+          flexbox: "no-2009",
+          grid: false
+        }
       }
     },
     'css-mqpacker': {},
-    'cssnano': ctx.env === 'production' ? {} : false,
+    'cssnano': ctx.env === 'production' ? { autoprefixer: false } : false,
     'postcss-reporter': {}
   }
 })
