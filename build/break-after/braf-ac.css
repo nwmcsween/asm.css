@@ -1,4 +1,4 @@
 .braf-ac {
   -webkit-column-break-after: avoid-column;
-          break-after: avoid-column;
+  break-after: avoid-column;
 }

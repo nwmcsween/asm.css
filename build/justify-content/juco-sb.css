@@ -1,4 +1,3 @@
 .juco-sb {
-  -webkit-box-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
 }

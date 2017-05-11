@@ -1,4 +1,3 @@
 .juco-se {
-  -webkit-box-pack: space-evenly;
-          justify-content: space-evenly;
+  justify-content: space-evenly;
 }

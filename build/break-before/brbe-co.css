@@ -1,4 +1,4 @@
 .brbe-co {
   -webkit-column-break-before: column;
-          break-before: column;
+  break-before: column;
 }

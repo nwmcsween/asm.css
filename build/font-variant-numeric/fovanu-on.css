@@ -1,5 +1,5 @@
 .fovanu-on {
   -webkit-font-feature-settings: "onum";
-          font-feature-settings: "onum";
+  font-feature-settings: "onum";
   font-variant-numeric: oldstyle-nums;
 }

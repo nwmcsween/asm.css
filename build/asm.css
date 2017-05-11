@@ -17,24 +17,19 @@
   align-content: stretch;
 }
 .alit-bl {
-  -webkit-box-align: baseline;
-          align-items: baseline;
+  align-items: baseline;
 }
 .alit-ce {
-  -webkit-box-align: center;
-          align-items: center;
+  align-items: center;
 }
 .alit-fe {
-  -webkit-box-align: end;
-          align-items: flex-end;
+  align-items: flex-end;
 }
 .alit-fs {
-  -webkit-box-align: start;
-          align-items: flex-start;
+  align-items: flex-start;
 }
 .alit-st {
-  -webkit-box-align: stretch;
-          align-items: stretch;
+  align-items: stretch;
 }
 .alse-au {
   align-self: auto;
@@ -59,23 +54,23 @@
 }
 .ap-au {
   -webkit-appearance: auto;
-          appearance: auto;
+  appearance: auto;
 }
 .ap-no {
   -webkit-appearance: none;
-          appearance: none;
+  appearance: none;
 }
 .bdfi-no {
   -webkit-backdrop-filter: none;
-          backdrop-filter: none;
+  backdrop-filter: none;
 }
 .bfvi-hi {
   -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .bfvi-vi {
   -webkit-backface-visibility: visible;
-          backface-visibility: visible;
+  backface-visibility: visible;
 }
 .bacl-bb {
   background-clip: border-box;
@@ -280,11 +275,11 @@
 }
 .bodebr-cl {
   -webkit-box-decoration-break: clone;
-          box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 .bodebr-sl {
   -webkit-box-decoration-break: slice;
-          box-decoration-break: slice;
+  box-decoration-break: slice;
 }
 .bosh-no {
   box-shadow: none;
@@ -306,87 +301,87 @@
 }
 .braf-ac {
   -webkit-column-break-after: avoid-column;
-          break-after: avoid-column;
+  break-after: avoid-column;
 }
 .braf-ap {
   -webkit-column-break-after: avoid;
-          break-after: avoid-page;
+  break-after: avoid-page;
 }
 .braf-au {
   -webkit-column-break-after: auto;
-          break-after: auto;
+  break-after: auto;
 }
 .braf-av {
   -webkit-column-break-after: avoid;
-          break-after: avoid;
+  break-after: avoid;
 }
 .braf-co {
   -webkit-column-break-after: column;
-          break-after: column;
+  break-after: column;
 }
 .braf-le {
   -webkit-column-break-after: left;
-          break-after: left;
+  break-after: left;
 }
 .braf-pg {
   -webkit-column-break-after: page;
-          break-after: page;
+  break-after: page;
 }
 .braf-re {
   -webkit-column-break-after: recto;
-          break-after: recto;
+  break-after: recto;
 }
 .braf-ri {
   -webkit-column-break-after: right;
-          break-after: right;
+  break-after: right;
 }
 .braf-ve {
   -webkit-column-break-after: verso;
-          break-after: verso;
+  break-after: verso;
 }
 .brbe-ac {
   -webkit-column-break-before: avoid-column;
-          break-before: avoid-column;
+  break-before: avoid-column;
 }
 .brbe-ap {
   -webkit-column-break-before: avoid;
-          break-before: avoid-page;
+  break-before: avoid-page;
 }
 .brbe-au {
   -webkit-column-break-before: auto;
-          break-before: auto;
+  break-before: auto;
 }
 .brbe-av {
   -webkit-column-break-before: avoid;
-          break-before: avoid;
+  break-before: avoid;
 }
 .brbe-co {
   -webkit-column-break-before: column;
-          break-before: column;
+  break-before: column;
 }
 .brbe-le {
   -webkit-column-break-before: left;
-          break-before: left;
+  break-before: left;
 }
 .brbe-pg {
   -webkit-column-break-before: page;
-          break-before: page;
+  break-before: page;
 }
 .brbe-re {
   -webkit-column-break-before: recto;
-          break-before: recto;
+  break-before: recto;
 }
 .brbe-ri {
   -webkit-column-break-before: right;
-          break-before: right;
+  break-before: right;
 }
 .brbe-ve {
   -webkit-column-break-before: verso;
-          break-before: verso;
+  break-before: verso;
 }
 .brin-ac {
   -webkit-column-break-inside: avoid;
-          break-inside: avoid-column;
+  break-inside: avoid-column;
 }
 .brin-ap {
   break-inside: avoid-page;
@@ -396,11 +391,11 @@
 }
 .brin-au {
   -webkit-column-break-inside: auto;
-          break-inside: auto;
+  break-inside: auto;
 }
 .brin-av {
   -webkit-column-break-inside: avoid;
-          break-inside: avoid;
+  break-inside: avoid;
 }
 .casi-be {
   caption-side: block-end;
@@ -437,107 +432,107 @@
 }
 .clpa-au {
   -webkit-clip-path: auto;
-          clip-path: auto;
+  clip-path: auto;
 }
 .clpa-bb {
   -webkit-clip-path: border-box;
-          clip-path: border-box;
+  clip-path: border-box;
 }
 .clpa-cb {
   -webkit-clip-path: content-box;
-          clip-path: content-box;
+  clip-path: content-box;
 }
 .clpa-fb {
   -webkit-clip-path: fill-box;
-          clip-path: fill-box;
+  clip-path: fill-box;
 }
 .clpa-mb {
   -webkit-clip-path: margin-box;
-          clip-path: margin-box;
+  clip-path: margin-box;
 }
 .clpa-pb {
   -webkit-clip-path: padding-box;
-          clip-path: padding-box;
+  clip-path: padding-box;
 }
 .clpa-sb {
   -webkit-clip-path: stroke-box;
-          clip-path: stroke-box;
+  clip-path: stroke-box;
 }
 .clpa-vb {
   -webkit-clip-path: view-box;
-          clip-path: view-box;
+  clip-path: view-box;
 }
 .coco-au {
   -webkit-column-count: auto;
-          column-count: auto;
+  column-count: auto;
 }
 .cofi-au {
   -webkit-column-fill: auto;
-          column-fill: auto;
+  column-fill: auto;
 }
 .cofi-ba {
   -webkit-column-fill: balance;
-          column-fill: balance;
+  column-fill: balance;
 }
 .coga-no {
   -webkit-column-gap: normal;
-          column-gap: normal;
+  column-gap: normal;
 }
 .corust-da {
   -webkit-column-rule-style: dashed;
-          column-rule-style: dashed;
+  column-rule-style: dashed;
 }
 .corust-dt {
   -webkit-column-rule-style: dotted;
-          column-rule-style: dotted;
+  column-rule-style: dotted;
 }
 .corust-du {
   -webkit-column-rule-style: double;
-          column-rule-style: double;
+  column-rule-style: double;
 }
 .corust-gr {
   -webkit-column-rule-style: groove;
-          column-rule-style: groove;
+  column-rule-style: groove;
 }
 .corust-h {
   -webkit-column-rule-style: hidden;
-          column-rule-style: hidden;
+  column-rule-style: hidden;
 }
 .corust-in {
   -webkit-column-rule-style: inset;
-          column-rule-style: inset;
+  column-rule-style: inset;
 }
 .corust-n {
   -webkit-column-rule-style: none;
-          column-rule-style: none;
+  column-rule-style: none;
 }
 .corust-ou {
   -webkit-column-rule-style: outset;
-          column-rule-style: outset;
+  column-rule-style: outset;
 }
 .corust-ri {
   -webkit-column-rule-style: ridge;
-          column-rule-style: ridge;
+  column-rule-style: ridge;
 }
 .coruwi-tc {
   -webkit-column-rule-width: thick;
-          column-rule-width: thick;
+  column-rule-width: thick;
 }
 .coruwi-tn {
   -webkit-column-rule-width: thin;
-          column-rule-width: thin;
+  column-rule-width: thin;
 }
 .cosp-al {
   -webkit-column-span: all;
-          column-span: all;
+  column-span: all;
 }
 .cosp-no {
   -webkit-column-span: none;
-          column-span: none;
+  column-span: none;
 }
 .cowi-au {
   -webkit-column-width: auto;
-          column-width: auto;
+  column-width: auto;
 }
 .co-co {
   contain: content;
@@ -612,7 +607,6 @@
   display: flow;
 }
 .di-fx {
-  display: -webkit-box;
   display: flex;
 }
 .di-gr {
@@ -622,7 +616,6 @@
   display: inline-block;
 }
 .di-ifx {
-  display: -webkit-inline-box;
   display: inline-flex;
 }
 .di-igr {
@@ -731,44 +724,31 @@
   flex-basis: max-content;
 }
 .fldi-co {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-          flex-direction: column;
+  flex-direction: column;
 }
 .fldi-cr {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: reverse;
-          flex-direction: column-reverse;
+  flex-direction: column-reverse;
 }
 .fldi-ro {
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-          flex-direction: row;
+  flex-direction: row;
 }
 .fldi-rr {
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: reverse;
-          flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 .flgr-1 {
-  -webkit-box-flex: 1;
-          flex-grow: 1;
+  flex-grow: 1;
 }
 .flgr-2 {
-  -webkit-box-flex: 2;
-          flex-grow: 2;
+  flex-grow: 2;
 }
 .flgr-3 {
-  -webkit-box-flex: 3;
-          flex-grow: 3;
+  flex-grow: 3;
 }
 .flgr-4 {
-  -webkit-box-flex: 4;
-          flex-grow: 4;
+  flex-grow: 4;
 }
 .flgr-5 {
-  -webkit-box-flex: 5;
-          flex-grow: 5;
+  flex-grow: 5;
 }
 .flsh-1 {
   flex-shrink: 1;
@@ -820,21 +800,21 @@
 }
 .foke-au {
   -webkit-font-feature-settings: auto;
-          font-feature-settings: auto;
+  font-feature-settings: auto;
   -webkit-font-kerning: auto;
-          font-kerning: auto;
+  font-kerning: auto;
 }
 .foke-ne {
   -webkit-font-feature-settings: "kern" off;
-          font-feature-settings: "kern" off;
+  font-feature-settings: "kern" off;
   -webkit-font-kerning: none;
-          font-kerning: none;
+  font-kerning: none;
 }
 .foke-no {
   -webkit-font-feature-settings: "kern";
-          font-feature-settings: "kern";
+  font-feature-settings: "kern";
   -webkit-font-kerning: normal;
-          font-kerning: normal;
+  font-kerning: normal;
 }
 .fosi-l {
   font-size: large;
@@ -916,37 +896,37 @@
 }
 .fovaca-apc {
   -webkit-font-feature-settings: "pcap", "c2pc";
-          font-feature-settings: "pcap", "c2pc";
+  font-feature-settings: "pcap", "c2pc";
   font-variant-caps: all-petite-caps;
 }
 .fovaca-asc {
   -webkit-font-feature-settings: "smcp", "c2sc";
-          font-feature-settings: "smcp", "c2sc";
+  font-feature-settings: "smcp", "c2sc";
   font-variant-caps: all-small-caps;
 }
 .fovaca-n {
   -webkit-font-feature-settings: normal;
-          font-feature-settings: normal;
+  font-feature-settings: normal;
   font-variant-caps: normal;
 }
 .fovaca-pc {
   -webkit-font-feature-settings: "pcap";
-          font-feature-settings: "pcap";
+  font-feature-settings: "pcap";
   font-variant-caps: petite-caps;
 }
 .fovaca-sc {
   -webkit-font-feature-settings: "c2sc";
-          font-feature-settings: "c2sc";
+  font-feature-settings: "c2sc";
   font-variant-caps: small-caps;
 }
 .fovaca-tc {
   -webkit-font-feature-settings: "titl";
-          font-feature-settings: "titl";
+  font-feature-settings: "titl";
   font-variant-caps: titling-caps;
 }
 .fovaca-u {
   -webkit-font-feature-settings: "unic";
-          font-feature-settings: "unic";
+  font-feature-settings: "unic";
   font-variant-caps: unicase;
 }
 .fovaeaas-fw {
@@ -981,122 +961,122 @@
 }
 .fovali-c {
   -webkit-font-feature-settings: "calt";
-          font-feature-settings: "calt";
+  font-feature-settings: "calt";
   -webkit-font-variant-ligatures: contextual;
-          font-variant-ligatures: contextual;
+  font-variant-ligatures: contextual;
 }
 .fovali-cl {
   -webkit-font-feature-settings: "liga", "clig";
-          font-feature-settings: "liga", "clig";
+  font-feature-settings: "liga", "clig";
   -webkit-font-variant-ligatures: common-ligatures;
-          font-variant-ligatures: common-ligatures;
+  font-variant-ligatures: common-ligatures;
 }
 .fovali-dl {
   -webkit-font-feature-settings: "dlig";
-          font-feature-settings: "dlig";
+  font-feature-settings: "dlig";
   -webkit-font-variant-ligatures: discretionary-ligatures;
-          font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
 }
 .fovali-hl {
   -webkit-font-feature-settings: "hlig";
-          font-feature-settings: "hlig";
+  font-feature-settings: "hlig";
   -webkit-font-variant-ligatures: historical-ligatures;
-          font-variant-ligatures: historical-ligatures;
+  font-variant-ligatures: historical-ligatures;
 }
 .fovali-nc {
   -webkit-font-feature-settings: "calt" off;
-          font-feature-settings: "calt" off;
+  font-feature-settings: "calt" off;
   -webkit-font-variant-ligatures: no-contextual;
-          font-variant-ligatures: no-contextual;
+  font-variant-ligatures: no-contextual;
 }
 .fovali-ncl {
   -webkit-font-feature-settings: "liga", "clig off";
-          font-feature-settings: "liga", "clig off";
+  font-feature-settings: "liga", "clig off";
   -webkit-font-variant-ligatures: no-common-ligatures;
-          font-variant-ligatures: no-common-ligatures;
+  font-variant-ligatures: no-common-ligatures;
 }
 .fovali-ndl {
   -webkit-font-feature-settings: "dlig" off;
-          font-feature-settings: "dlig" off;
+  font-feature-settings: "dlig" off;
   -webkit-font-variant-ligatures: no-discretionary-ligatures;
-          font-variant-ligatures: no-discretionary-ligatures;
+  font-variant-ligatures: no-discretionary-ligatures;
 }
 .fovali-ne {
   -webkit-font-feature-settings: none;
-          font-feature-settings: none;
+  font-feature-settings: none;
   -webkit-font-variant-ligatures: none;
-          font-variant-ligatures: none;
+  font-variant-ligatures: none;
 }
 .fovali-nhl {
   -webkit-font-feature-settings: "hlig" off;
-          font-feature-settings: "hlig" off;
+  font-feature-settings: "hlig" off;
   -webkit-font-variant-ligatures: no-historical-ligatures;
-          font-variant-ligatures: no-historical-ligatures;
+  font-variant-ligatures: no-historical-ligatures;
 }
 .fovali-nl {
   -webkit-font-feature-settings: normal;
-          font-feature-settings: normal;
+  font-feature-settings: normal;
   -webkit-font-variant-ligatures: normal;
-          font-variant-ligatures: normal;
+  font-variant-ligatures: normal;
 }
 .fovanu-df {
   -webkit-font-feature-settings: "frac";
-          font-feature-settings: "frac";
+  font-feature-settings: "frac";
   font-variant-numeric: diagonal-fractions;
 }
 .fovanu-ln {
   -webkit-font-feature-settings: "lnum";
-          font-feature-settings: "lnum";
+  font-feature-settings: "lnum";
   font-variant-numeric: lining-nums;
 }
 .fovanu-n {
   -webkit-font-feature-settings: normal;
-          font-feature-settings: normal;
+  font-feature-settings: normal;
   font-variant-numeric: normal;
 }
 .fovanu-o {
   -webkit-font-feature-settings: "ordn";
-          font-feature-settings: "ordn";
+  font-feature-settings: "ordn";
   font-variant-numeric: ordinal;
 }
 .fovanu-on {
   -webkit-font-feature-settings: "onum";
-          font-feature-settings: "onum";
+  font-feature-settings: "onum";
   font-variant-numeric: oldstyle-nums;
 }
 .fovanu-pn {
   -webkit-font-feature-settings: "pnum";
-          font-feature-settings: "pnum";
+  font-feature-settings: "pnum";
   font-variant-numeric: proportional-nums;
 }
 .fovanu-sf {
   -webkit-font-feature-settings: "afrc";
-          font-feature-settings: "afrc";
+  font-feature-settings: "afrc";
   font-variant-numeric: stacked-fractions;
 }
 .fovanu-sz {
   -webkit-font-feature-settings: "zero";
-          font-feature-settings: "zero";
+  font-feature-settings: "zero";
   font-variant-numeric: slashed-zero;
 }
 .fovanu-tn {
   -webkit-font-feature-settings: "tnum";
-          font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
   font-variant-numeric: tabular-nums;
 }
 .fovapo-n {
   -webkit-font-feature-settings: "subs" off, "sups" off;
-          font-feature-settings: "subs" off, "sups" off;
+  font-feature-settings: "subs" off, "sups" off;
   font-variant-position: normal;
 }
 .fovapo-sb {
   -webkit-font-feature-settings: "subs";
-          font-feature-settings: "subs";
+  font-feature-settings: "subs";
   font-variant-position: sub;
 }
 .fovapo-sr {
   -webkit-font-feature-settings: "sups";
-          font-feature-settings: "sups";
+  font-feature-settings: "sups";
   font-variant-position: super;
 }
 .fowe-100 {
@@ -1197,15 +1177,15 @@
 }
 .hy-a {
   -webkit-hyphens: auto;
-          hyphens: auto;
+  hyphens: auto;
 }
 .hy-m {
   -webkit-hyphens: manual;
-          hyphens: manual;
+  hyphens: manual;
 }
 .hy-n {
   -webkit-hyphens: none;
-          hyphens: none;
+  hyphens: none;
 }
 .imor-f {
   image-orientation: flip;
@@ -1230,27 +1210,22 @@
   isolation: isolate;
 }
 .juco-c {
-  -webkit-box-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 .juco-fe {
-  -webkit-box-pack: end;
-          justify-content: flex-end;
+  justify-content: flex-end;
 }
 .juco-fs {
-  -webkit-box-pack: start;
-          justify-content: flex-start;
+  justify-content: flex-start;
 }
 .juco-sa {
   justify-content: space-around;
 }
 .juco-sb {
-  -webkit-box-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
 }
 .juco-se {
-  -webkit-box-pack: space-evenly;
-          justify-content: space-evenly;
+  justify-content: space-evenly;
 }
 .le-a {
   left: auto;
@@ -1317,51 +1292,51 @@
 }
 .macl-bb {
   -webkit-mask-clip: border-box;
-          mask-clip: border-box;
+  mask-clip: border-box;
 }
 .macl-cb {
   -webkit-mask-clip: content-box;
-          mask-clip: content-box;
+  mask-clip: content-box;
 }
 .macl-mb {
   -webkit-mask-clip: margin-box;
-          mask-clip: margin-box;
+  mask-clip: margin-box;
 }
 .macl-nc {
   -webkit-mask-clip: no-clip;
-          mask-clip: no-clip;
+  mask-clip: no-clip;
 }
 .macl-pb {
   -webkit-mask-clip: padding-box;
-          mask-clip: padding-box;
+  mask-clip: padding-box;
 }
 .macl-sb {
   -webkit-mask-clip: stroke-box;
-          mask-clip: stroke-box;
+  mask-clip: stroke-box;
 }
 .macl-vb {
   -webkit-mask-clip: view-box;
-          mask-clip: view-box;
+  mask-clip: view-box;
 }
 .maco-a {
   -webkit-mask-composite: add;
-          mask-composite: add;
+  mask-composite: add;
 }
 .maco-e {
   -webkit-mask-composite: exclude;
-          mask-composite: exclude;
+  mask-composite: exclude;
 }
 .maco-i {
   -webkit-mask-composite: intersect;
-          mask-composite: intersect;
+  mask-composite: intersect;
 }
 .maco-s {
   -webkit-mask-composite: subtract;
-          mask-composite: subtract;
+  mask-composite: subtract;
 }
 .maim-n {
   -webkit-mask-image: none;
-          mask-image: none;
+  mask-image: none;
 }
 .mamo-a {
   mask-mode: alpha;
@@ -1374,87 +1349,87 @@
 }
 .maor-bb {
   -webkit-mask-origin: border-box;
-          mask-origin: border-box;
+  mask-origin: border-box;
 }
 .maor-cb {
   -webkit-mask-origin: content-box;
-          mask-origin: content-box;
+  mask-origin: content-box;
 }
 .maor-fb {
   -webkit-mask-origin: fill-box;
-          mask-origin: fill-box;
+  mask-origin: fill-box;
 }
 .maor-mb {
   -webkit-mask-origin: margin-box;
-          mask-origin: margin-box;
+  mask-origin: margin-box;
 }
 .maor-pb {
   -webkit-mask-origin: padding-box;
-          mask-origin: padding-box;
+  mask-origin: padding-box;
 }
 .maor-sb {
   -webkit-mask-origin: stroke-box;
-          mask-origin: stroke-box;
+  mask-origin: stroke-box;
 }
 .maor-vb {
   -webkit-mask-origin: view-box;
-          mask-origin: view-box;
+  mask-origin: view-box;
 }
 .mapo-b {
   -webkit-mask-position: bottom;
-          mask-position: bottom;
+  mask-position: bottom;
 }
 .mapo-c {
   -webkit-mask-position: center;
-          mask-position: center;
+  mask-position: center;
 }
 .mapo-l {
   -webkit-mask-position: left;
-          mask-position: left;
+  mask-position: left;
 }
 .mapo-r {
   -webkit-mask-position: right;
-          mask-position: right;
+  mask-position: right;
 }
 .mapo-t {
   -webkit-mask-position: top;
-          mask-position: top;
+  mask-position: top;
 }
 .mare-nrt {
   -webkit-mask-repeat: no-repeat;
-          mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
 }
 .mare-rd {
   -webkit-mask-repeat: round;
-          mask-repeat: round;
+  mask-repeat: round;
 }
 .mare-rt {
   -webkit-mask-repeat: repeat;
-          mask-repeat: repeat;
+  mask-repeat: repeat;
 }
 .mare-rtx {
   -webkit-mask-repeat: repeat-x;
-          mask-repeat: repeat-x;
+  mask-repeat: repeat-x;
 }
 .mare-rty {
   -webkit-mask-repeat: repeat-y;
-          mask-repeat: repeat-y;
+  mask-repeat: repeat-y;
 }
 .mare-s {
   -webkit-mask-repeat: space;
-          mask-repeat: space;
+  mask-repeat: space;
 }
 .masi-a {
   -webkit-mask-size: auto;
-          mask-size: auto;
+  mask-size: auto;
 }
 .masi-cn {
   -webkit-mask-size: contain;
-          mask-size: contain;
+  mask-size: contain;
 }
 .masi-cr {
   -webkit-mask-size: cover;
-          mask-size: cover;
+  mask-size: cover;
 }
 .maty-a {
   mask-type: alpha;
@@ -1499,7 +1474,6 @@
 .mihe-mic {
   min-height: -webkit-min-content;
   min-height: min-content;
-  min-height: min-content;
 }
 .miwi-fc {
   min-width: -webkit-fit-content;
@@ -1507,7 +1481,6 @@
 }
 .miwi-mic {
   min-width: -webkit-min-content;
-  min-width: min-content;
   min-width: min-content;
 }
 .miblmo-c {

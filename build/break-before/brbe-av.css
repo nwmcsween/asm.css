@@ -1,4 +1,4 @@
 .brbe-av {
   -webkit-column-break-before: avoid;
-          break-before: avoid;
+  break-before: avoid;
 }

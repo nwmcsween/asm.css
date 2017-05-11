@@ -1,4 +1,4 @@
 .brbe-pg {
   -webkit-column-break-before: page;
-          break-before: page;
+  break-before: page;
 }

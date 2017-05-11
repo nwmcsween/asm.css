@@ -1,6 +1,6 @@
 .fovali-nhl {
   -webkit-font-feature-settings: "hlig" off;
-          font-feature-settings: "hlig" off;
+  font-feature-settings: "hlig" off;
   -webkit-font-variant-ligatures: no-historical-ligatures;
-          font-variant-ligatures: no-historical-ligatures;
+  font-variant-ligatures: no-historical-ligatures;
 }
