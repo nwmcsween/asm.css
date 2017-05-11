@@ -1,6 +1,6 @@
 .fovali-cl {
   -webkit-font-feature-settings: "liga", "clig";
-  font-feature-settings: "liga", "clig";
+          font-feature-settings: "liga", "clig";
   -webkit-font-variant-ligatures: common-ligatures;
-  font-variant-ligatures: common-ligatures;
+          font-variant-ligatures: common-ligatures;
 }

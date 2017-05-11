@@ -1,4 +1,5 @@
 .fldi-cr {
-  -ms-flex-direction: column-reverse;
-  flex-direction: column-reverse;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: reverse;
+          flex-direction: column-reverse;
 }

@@ -1,4 +1,4 @@
 .alit-fe {
-  -ms-flex-align: end;
-  align-items: flex-end;
+  -webkit-box-align: end;
+          align-items: flex-end;
 }

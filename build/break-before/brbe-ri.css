@@ -1,5 +1,4 @@
 .brbe-ri {
   -webkit-column-break-before: right;
-  page-break-before: right;
-  break-before: right;
+          break-before: right;
 }

@@ -1,5 +1,4 @@
 .coco-au {
   -webkit-column-count: auto;
-  -moz-column-count: auto;
-  column-count: auto;
+          column-count: auto;
 }

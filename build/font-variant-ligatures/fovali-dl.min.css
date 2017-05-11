@@ -1,6 +1,1 @@
-.fovali-dl {
-  -webkit-font-feature-settings: "dlig";
-  font-feature-settings: "dlig";
-  -webkit-font-variant-ligatures: discretionary-ligatures;
-  font-variant-ligatures: discretionary-ligatures;
-}
+.fovali-dl{-webkit-font-feature-settings:"dlig";font-feature-settings:"dlig";-webkit-font-variant-ligatures:discretionary-ligatures;font-variant-ligatures:discretionary-ligatures}

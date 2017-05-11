@@ -1,4 +1,5 @@
 .fldi-co {
-  -ms-flex-direction: column;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
 }

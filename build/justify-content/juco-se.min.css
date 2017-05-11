@@ -1,4 +1,1 @@
-.juco-se {
-  -ms-flex-pack: space-evenly;
-  justify-content: space-evenly;
-}
+.juco-se{-webkit-box-pack:space-evenly;justify-content:space-evenly}

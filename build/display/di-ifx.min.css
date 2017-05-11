@@ -1,4 +1,1 @@
-.di-ifx {
-  display: -ms-inline-flexbox;
-  display: inline-flex;
-}
+.di-ifx{display:-webkit-inline-box;display:inline-flex}

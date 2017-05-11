@@ -1,6 +1,6 @@
 .foke-ne {
   -webkit-font-feature-settings: "kern" off;
-  font-feature-settings: "kern" off;
+          font-feature-settings: "kern" off;
   -webkit-font-kerning: none;
-  font-kerning: none;
+          font-kerning: none;
 }

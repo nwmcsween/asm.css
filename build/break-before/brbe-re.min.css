@@ -1,5 +1,1 @@
-.brbe-re {
-  -webkit-column-break-before: recto;
-  page-break-before: recto;
-  break-before: recto;
-}
+.brbe-re{-webkit-column-break-before:recto;break-before:recto}

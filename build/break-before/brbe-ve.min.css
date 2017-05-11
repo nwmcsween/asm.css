@@ -1,5 +1,1 @@
-.brbe-ve {
-  -webkit-column-break-before: verso;
-  page-break-before: verso;
-  break-before: verso;
-}
+.brbe-ve{-webkit-column-break-before:verso;break-before:verso}

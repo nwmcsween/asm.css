@@ -1,5 +1,4 @@
 .cofi-ba {
   -webkit-column-fill: balance;
-  -moz-column-fill: balance;
-  column-fill: balance;
+          column-fill: balance;
 }

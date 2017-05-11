@@ -1,5 +1,1 @@
-.braf-re {
-  -webkit-column-break-after: recto;
-  page-break-after: recto;
-  break-after: recto;
-}
+.braf-re{-webkit-column-break-after:recto;break-after:recto}

@@ -1,5 +1,4 @@
 .braf-ve {
   -webkit-column-break-after: verso;
-  page-break-after: verso;
-  break-after: verso;
+          break-after: verso;
 }

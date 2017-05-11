@@ -1,5 +1,5 @@
 .flgr-2 {
-  -ms-flex-positive: 2;
-  flex-grow: 2;
+  -webkit-box-flex: 2;
+          flex-grow: 2;
 }
 

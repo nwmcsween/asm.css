@@ -1,6 +1,6 @@
 .fovali-ndl {
   -webkit-font-feature-settings: "dlig" off;
-  font-feature-settings: "dlig" off;
+          font-feature-settings: "dlig" off;
   -webkit-font-variant-ligatures: no-discretionary-ligatures;
-  font-variant-ligatures: no-discretionary-ligatures;
+          font-variant-ligatures: no-discretionary-ligatures;
 }

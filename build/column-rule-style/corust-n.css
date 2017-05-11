@@ -1,5 +1,4 @@
 .corust-n {
   -webkit-column-rule-style: none;
-  -moz-column-rule-style: none;
-  column-rule-style: none;
+          column-rule-style: none;
 }

@@ -1,6 +1,1 @@
-.fovali-hl {
-  -webkit-font-feature-settings: "hlig";
-  font-feature-settings: "hlig";
-  -webkit-font-variant-ligatures: historical-ligatures;
-  font-variant-ligatures: historical-ligatures;
-}
+.fovali-hl{-webkit-font-feature-settings:"hlig";font-feature-settings:"hlig";-webkit-font-variant-ligatures:historical-ligatures;font-variant-ligatures:historical-ligatures}

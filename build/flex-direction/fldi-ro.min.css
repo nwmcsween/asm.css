@@ -1,4 +1,1 @@
-.fldi-ro {
-  -ms-flex-direction: row;
-  flex-direction: row;
-}
+.fldi-ro{-webkit-box-orient:horizontal;-webkit-box-direction:normal;flex-direction:row}

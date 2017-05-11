@@ -1,5 +1,4 @@
 .braf-au {
   -webkit-column-break-after: auto;
-  page-break-after: auto;
-  break-after: auto;
+          break-after: auto;
 }

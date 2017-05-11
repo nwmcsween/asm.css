@@ -1,4 +1,1 @@
-.alit-bl {
-  -ms-flex-align: baseline;
-  align-items: baseline;
-}
+.alit-bl{-webkit-box-align:baseline;align-items:baseline}

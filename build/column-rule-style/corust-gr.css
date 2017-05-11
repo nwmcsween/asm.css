@@ -1,5 +1,4 @@
 .corust-gr {
   -webkit-column-rule-style: groove;
-  -moz-column-rule-style: groove;
-  column-rule-style: groove;
+          column-rule-style: groove;
 }

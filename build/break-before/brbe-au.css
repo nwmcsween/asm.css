@@ -1,5 +1,4 @@
 .brbe-au {
   -webkit-column-break-before: auto;
-  page-break-before: auto;
-  break-before: auto;
+          break-before: auto;
 }

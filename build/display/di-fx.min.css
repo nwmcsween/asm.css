@@ -1,4 +1,1 @@
-.di-fx {
-  display: -ms-flexbox;
-  display: flex;
-}
+.di-fx{display:-webkit-box;display:flex}

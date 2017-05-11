@@ -1,4 +1,4 @@
 .maco-s {
   -webkit-mask-composite: subtract;
-  mask-composite: subtract;
+          mask-composite: subtract;
 }

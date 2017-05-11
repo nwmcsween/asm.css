@@ -1,5 +1,5 @@
 .fovapo-sr {
   -webkit-font-feature-settings: "sups";
-  font-feature-settings: "sups";
+          font-feature-settings: "sups";
   font-variant-position: super;
 }

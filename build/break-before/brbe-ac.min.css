@@ -1,5 +1,1 @@
-.brbe-ac {
-  -webkit-column-break-before: avoid-column;
-  page-break-before: avoid-column;
-  break-before: avoid-column;
-}
+.brbe-ac{-webkit-column-break-before:avoid-column;break-before:avoid-column}

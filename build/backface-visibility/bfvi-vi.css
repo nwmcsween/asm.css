@@ -1,4 +1,4 @@
 .bfvi-vi {
   -webkit-backface-visibility: visible;
-  backface-visibility: visible;
+          backface-visibility: visible;
 }

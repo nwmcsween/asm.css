@@ -1,5 +1,4 @@
 .blsi-fc {
   block-size: -webkit-fit-content;
-  block-size: -moz-fit-content;
   block-size: fit-content;
 }

@@ -1,4 +1,4 @@
 .di-fx {
-  display: -ms-flexbox;
+  display: -webkit-box;
   display: flex;
 }

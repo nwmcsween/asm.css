@@ -1,5 +1,1 @@
-.blsi-mic {
-  block-size: -webkit-min-content;
-  block-size: -moz-min-content;
-  block-size: min-content;
-}
+.blsi-mic{block-size:-webkit-min-content;block-size:min-content}

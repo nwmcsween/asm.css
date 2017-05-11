@@ -1,4 +1,1 @@
-.obfi-sd {
-  -o-object-fit: scale-down;
-  object-fit: scale-down;
-}
+.obfi-sd{object-fit:scale-down}

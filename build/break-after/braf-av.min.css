@@ -1,5 +1,1 @@
-.braf-av {
-  -webkit-column-break-after: avoid;
-  page-break-after: avoid;
-  break-after: avoid;
-}
+.braf-av{-webkit-column-break-after:avoid;break-after:avoid}

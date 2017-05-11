@@ -1,5 +1,1 @@
-.braf-pg {
-  -webkit-column-break-after: page;
-  page-break-after: page;
-  break-after: page;
-}
+.braf-pg{-webkit-column-break-after:page;break-after:page}

@@ -1,4 +1,4 @@
 .alit-st {
-  -ms-flex-align: stretch;
-  align-items: stretch;
+  -webkit-box-align: stretch;
+          align-items: stretch;
 }

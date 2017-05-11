@@ -1,5 +1,4 @@
 .brbe-le {
   -webkit-column-break-before: left;
-  page-break-before: left;
-  break-before: left;
+          break-before: left;
 }

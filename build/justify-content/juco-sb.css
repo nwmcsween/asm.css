@@ -1,4 +1,4 @@
 .juco-sb {
-  -ms-flex-pack: justify;
-  justify-content: space-between;
+  -webkit-box-pack: justify;
+          justify-content: space-between;
 }

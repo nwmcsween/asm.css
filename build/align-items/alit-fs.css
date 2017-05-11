@@ -1,4 +1,4 @@
 .alit-fs {
-  -ms-flex-align: start;
-  align-items: flex-start;
+  -webkit-box-align: start;
+          align-items: flex-start;
 }

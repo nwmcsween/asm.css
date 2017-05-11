@@ -1,4 +1,4 @@
 .alit-ce {
-  -ms-flex-align: center;
-  align-items: center;
+  -webkit-box-align: center;
+          align-items: center;
 }
